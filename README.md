@@ -3,6 +3,16 @@
 A responsive workshop landing page built using **React.js**, **Tailwind CSS**, **Node.js**, **Express.js**, and **MongoDB**.
 
 ---
+# Screenshots
+
+<img width="1897" height="797" alt="Screenshot 2026-06-20 145359" src="https://github.com/user-attachments/assets/54126bb0-27f0-4097-a825-a3acf1a89a71" />
+
+
+
+
+
+
+<img width="1891" height="812" alt="Screenshot 2026-06-20 145315" src="https://github.com/user-attachments/assets/aad66dce-6b0c-417d-8576-1c4558ad8b08" />
 
 ## 📖 Project Overview
 
